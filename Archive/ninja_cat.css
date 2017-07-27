@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+	/*background-color: red;*/
+}
+
+.wrapper{
+	width: 300px;
+	height: 600px;
+	background-color: gray;
+}
+
+.wrapper img{
+	width: 250px;
+	height: 75px;
+	/*margin: 0 auto;*/
+	margin-top: 10px;
+	margin-left: 25px
+}
